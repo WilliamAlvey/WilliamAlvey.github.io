@@ -20,25 +20,25 @@ h2 {
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: red; /* pick a color */
+background: red; 
 border-radius: 15%;
 }
 
 .project img{
     width: 300px;
-    /* height: 300px; */
+    
     margin: 10px;
-    border: 2px solid black; /* choose a color */
+    border: 2px solid black; 
     display: block;
     margin: auto;
     }
 
-    a { /* change the appearance of ALL links */
+ a{ 
         text-decoration: none;
         text-align: center;
         color: black;
         }
-        .project p { /* change the appearance of paragraph tags inside .project divs */
+.project p { 
         text-align: center;
         margin: 15px;
         }
